@@ -44,3 +44,7 @@ Username: `Admin` / Password: `1234`
 ## Purpose
 
 This project was developed as a large-scale hospital simulation system during the early stages of my programming journey to practice building a complete system with multiple modules using C++ and file-based persistence.
+
+## Demo
+
+Watch the system demo: https://youtu.be/bcrmCGEWLlQ
