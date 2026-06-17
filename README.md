@@ -2,8 +2,6 @@
 
 A console-based Hospital Management System built in C++ that simulates core hospital operations such as patient management, employee handling, pharmacy inventory, financial operations, and complaint tracking using file-based storage.
 
----
-
 ### Features
 
 - User authentication system (login)
@@ -20,10 +18,11 @@ A console-based Hospital Management System built in C++ that simulates core hosp
 ---
 
 ### Authentication
-
 The system includes a default administrator account stored in the `data/Users` file for initial access and testing purposes:
 
 Username: `Admin` / Password: `1234`
+
+---
 
 ### Concepts Practiced
 
@@ -36,15 +35,11 @@ Username: `Admin` / Password: `1234`
 - Business Logic Implementation
 - Multi-module system design
 
----
-
 ### Technologies
 
 - C++
 - Console Application
 - File System Storage
-
----
 
 ## Purpose
 
