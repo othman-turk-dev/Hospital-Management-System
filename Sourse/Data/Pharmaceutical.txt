@@ -1,0 +1,7 @@
+Paracetamol-10.000000-30
+Insulin-30.000000-9
+Metformin-7.000000-11
+Fluorescein-11.000000-10
+Lidocaine-10.000000-11
+Midazolam-40.000000-53
+Tramadol-20.000000-20
